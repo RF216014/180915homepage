@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: rarara
 descliprion: faifa
 github:
- is project_page: false
+ is_project_page: false
